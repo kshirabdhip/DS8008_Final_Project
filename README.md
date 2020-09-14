@@ -16,5 +16,5 @@ When topic models are built utilizing word frequency or tf-idf scores, the words
 ## Model Architecture
 
 <div align="left">
-<img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/result.JPG" width="800" height="300">
+<img src="https://github.com/kshirabdhip/Embedded-topic-model--NLP_Project/blob/master/model.JPG" width="800" height="300">
 </div>
